@@ -26,4 +26,3 @@ install: $(TARGET)
 	chmod +x /usr/local/bin/$(TARGET)
 
 .PHONY: all clean install
-4oyl5khh26@lnovic.com|Ca123456@
